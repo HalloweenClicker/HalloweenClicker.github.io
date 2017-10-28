@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Niconne');
+body{
+   background-color:black;
+   color:rgb(230, 98, 10);
+   text-align:center;
+   
+}
+h1{
+    font-family:"Niconne";
+    font-size:58pt; 
+    text-align: center;
+     line-height: 20pt;
+}
+h2{
+    font-family: "Satisfy";
+    font-size: 30pt;
+     line-height: 20pt;
+}
+.UpgradePerD{
+    font-size: 18pt ; 
+    display: inline-block;
+    border: 2px solid rgb(230, 98, 10);
+}
+.AutoPerD{
+    font-size:18pt;
+     display: inline-block;
+      border: 2px solid rgb(230, 98, 10);
+}
+button{
+    background-color: rgb(230, 98, 10);
+    font-size:20pt;
+    border: 3px solid black;
+    font-family: "Kanit";
+}
+#imag{
+   
+     line-height: 11pt;
+}
+.AmounterPerP{
+    font-family: bold;
+}
+#score{
+    font-family: monospace;
+    font-size: 21pt;
+     line-height: 15pt;
+    
+}
